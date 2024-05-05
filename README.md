@@ -1,1 +1,1 @@
-Supervised Learning - Personal Loan Campaign Modelling
+Machine Learning Projects
